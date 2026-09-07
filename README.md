@@ -239,3 +239,6 @@ This repository serves as the official landing page for **DirectX 12**. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DirectX 12 today!**
+
+---
+**Last updated:** 2026-09-07 23:57:00 UTC
