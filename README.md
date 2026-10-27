@@ -241,4 +241,4 @@ This repository serves as the official landing page for **DirectX 12**. The soft
 **Get the most recent version of DirectX 12 today!**
 
 ---
-**Last updated:** 2026-10-26 21:18:44 UTC
+**Last updated:** 2026-10-27 01:04:50 UTC
